@@ -1,2 +1,3 @@
 # Batatabit
-Curso Mobile first platzi
+Curso Mobile first de Platzi
+No contiene JavaScript, solo HTML Y CSS.
